@@ -14,7 +14,9 @@ var words = [
 
 // Write a function uniqueArray that receives an array of words as a parameter. And remove the duplicates, and return a new array. 
 // (indexOf)
-
+function uniqueArray(arr){
+  for()
+}
 
 
 var words2 = [
